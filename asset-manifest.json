@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Q8-DAR-ACT3/static/css/main.c4651efe.css",
+    "main.js": "/Q8-DAR-ACT3/static/js/main.dcb18c24.js",
+    "static/js/453.5afd18aa.chunk.js": "/Q8-DAR-ACT3/static/js/453.5afd18aa.chunk.js",
+    "index.html": "/Q8-DAR-ACT3/index.html",
+    "main.c4651efe.css.map": "/Q8-DAR-ACT3/static/css/main.c4651efe.css.map",
+    "main.dcb18c24.js.map": "/Q8-DAR-ACT3/static/js/main.dcb18c24.js.map",
+    "453.5afd18aa.chunk.js.map": "/Q8-DAR-ACT3/static/js/453.5afd18aa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4651efe.css",
+    "static/js/main.dcb18c24.js"
+  ]
+}
